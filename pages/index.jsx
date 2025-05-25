@@ -92,7 +92,7 @@ export default function Home() {
       
       {/* App UI Section Tire Condition */}
       <section className="app-ui-section">
-        <h1>User<span className="highlight">Interface</span></h1>
+        <h2>User<span className="highlight">Interface</span></h2>
         <motion.div
           className="app-ui-slider"
           initial={{ x: -50, opacity: 0 }}
